@@ -1,9 +1,9 @@
-<img src="https://i.imgur.com/Ocz7CMp.gif">
+<img src="https://i.imgur.com/Isg6mGN.gif">
 
 <!--
 **RodolfoCamposGlz/RodolfoCamposGlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hi I'm Rodolfo 👋
+# Hi I'm Rodolfo 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
