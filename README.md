@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/Isg6mGN.gif">
+
 
 <!--
 **RodolfoCamposGlz/RodolfoCamposGlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
