@@ -1,4 +1,4 @@
-![alt text](https://imgur.com/14UGuVj)
+<img src="https://imgur.com/14UGuVj"/>
 ### Hi I'm Rodolfo 👋
 
 <!--
