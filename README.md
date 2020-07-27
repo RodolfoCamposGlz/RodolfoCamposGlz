@@ -1,4 +1,4 @@
-<img src="https://imgur.com/14UGuVj"/>
+<img src="https://i.imgur.com/14UGuVj.png">
 ### Hi I'm Rodolfo 👋
 
 <!--
