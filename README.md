@@ -15,7 +15,7 @@ What I'm doing now
 ------
 - 🔭 I’m currently working with React Native
 - 🌱 I’m currently learning Design patterns
-- ⚡ Fun fact: I tought being a developer wasn't for my, but my passion for create things changed my mind.
+- ⚡ Fun fact: I thought being a developer wasn't for my, but my passion for create things changed my mind.
 <!--
 **RodolfoCamposGlz/RodolfoCamposGlz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
