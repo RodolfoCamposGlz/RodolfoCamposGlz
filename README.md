@@ -6,10 +6,10 @@ I'm a javascript developer focused on Front End technologies. I love to learn ne
 
 Values
 ------
-🙋‍ - Being an authentic person
-🤓 - Be self-learned
-💪 - Work as a team
-👨‍ - Share your knowledege with others
+- 🙋‍ Being an authentic person
+- 🤓 Be self-learned
+- 💪 Work as a team
+- 👨‍ Share your knowledege with others
 
 What I'm doing now
 ------
