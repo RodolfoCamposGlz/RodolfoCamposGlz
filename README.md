@@ -7,7 +7,7 @@ I'm a javascript developer focused on Front End technologies. I love to learn ne
 Values
 ------
 - 🙋‍ Being an authentic person
-- 🤓 Be self-learned
+- 🤓 Be self-learning
 - 💪 Work as a team
 - 👨‍ Share your knowledege with others
 
